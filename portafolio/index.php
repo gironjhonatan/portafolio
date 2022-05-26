@@ -215,25 +215,7 @@ if(isset($message)){
          <h3>bootstrap</h3>
          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, placeat veritatis accusantium nostrum rem ipsa.</p>
       </div>
-<!--
-      <div class="box" data-aos="zoom-in">
-         <i class="fas fa-chart-line"></i>
-         <h3>seo marketing</h3>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, placeat veritatis accusantium nostrum rem ipsa.</p>
-      </div>
 
-      <div class="box" data-aos="zoom-in">
-         <i class="fas fa-bullhorn"></i>
-         <h3>digital marketing</h3>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, placeat veritatis accusantium nostrum rem ipsa.</p>
-      </div>
-
-      <div class="box" data-aos="zoom-in">
-         <i class="fab fa-wordpress"></i>
-         <h3>wordpress</h3>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, placeat veritatis accusantium nostrum rem ipsa.</p>
-      </div>
--->
    </div>
 
 </section>
