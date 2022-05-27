@@ -96,7 +96,6 @@ if(isset($message)){
    <div class="content">
       <h3 data-aos="fade-up">Jhonatan Giron Cabrera</h3>
       <span data-aos="fade-up">Desarrollador de Software</span>
-      <p data-aos="fade-up">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reiciendis labore recusandae minima molestias aliquam nostrum.</p>
       <a data-aos="fade-up" href="#about" class="btn">sobre mí</a>
    </div>
 
@@ -112,7 +111,7 @@ if(isset($message)){
 
    <div class="biography">
 
-      <p data-aos="fade-up">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reiciendis tenetur amet ab optio minus est error libero adipisci numquam ratione.</p>
+      <p data-aos="fade-up"></p>
 
       <div class="bio">
          <h3 data-aos="zoom-in"> <span>nombre : </span> Jhonatan Giron </h3>
@@ -120,7 +119,6 @@ if(isset($message)){
          <h3 data-aos="zoom-in"> <span>dirección : </span> Pereira - Colombia </h3>
          <h3 data-aos="zoom-in"> <span>telefono : </span> +57 3217212410 </h3>
          <h3 data-aos="zoom-in"> <span>años : </span> 22 años </h3>
-        <!-- <h3 data-aos="zoom-in"> <span>experience : </span> 2+ years </h3> -->
       </div>
 
       <a href="https://drive.google.com/file/d/1LIYNU641FBw1V_GL-KwwdSw1zZ8bX00W/view?usp=sharing" class="btn" data-aos="fade-up">CV</a>
@@ -151,36 +149,29 @@ if(isset($message)){
             <h3 class="title" data-aos="fade-right">educación</h3>
 
             <div class="box" data-aos="fade-right">
-               <span>( 2019 - 2020 )</span>
+               <span>( 2019 - 2022 )</span>
                <h3>web designer</h3>
-               <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat assumenda, eaque sequi repellat natus quia.</p>
-            </div>
-
-           <div class="box" data-aos="fade-right">
-               <span>( 2021 - 2022 )</span>
-               <h3>graphic designer</h3>
-               <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat assumenda, eaque sequi repellat natus quia.</p>
+               <p>Desarrollador de Software - Universidad cat</p>
             </div>
 
          </div>
 
-         <div class="box-container">
+  <--!  <div class="box-container">
 
             <h3 class="title" data-aos="fade-left">experiencia</h3>
 
             <div class="box" data-aos="fade-left">
                <span>( 2019 - 2020 )</span>
                <h3>front-end developer</h3>
-               <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat assumenda, eaque sequi repellat natus quia.</p>
             </div>
 
             <div class="box" data-aos="fade-left">
                <span>( 2020 - 2021 )</span>
                <h3>back-end developer</h3>
-               <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat assumenda, eaque sequi repellat natus quia.</p>
             </div>
 
-         </div>
+         </div> 
+  -->
 
       </div>
 
@@ -201,19 +192,13 @@ if(isset($message)){
       <div class="box" data-aos="zoom-in">
          <i class="fas fa-code"></i>
          <h3>web development</h3>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, placeat veritatis accusantium nostrum rem ipsa.</p>
-      </div>
-
-      <div class="box" data-aos="zoom-in">
-         <i class="fas fa-paint-brush"></i>
-         <h3>graphic design</h3>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, placeat veritatis accusantium nostrum rem ipsa.</p>
+         <p>Tengo conocimientos en el Frontend, con las tecnologias de HTML, CSS, JavaScript, php, y con el framework de Laravel</p>
       </div>
 
       <div class="box" data-aos="zoom-in">
          <i class="fab fa-bootstrap"></i>
          <h3>bootstrap</h3>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, placeat veritatis accusantium nostrum rem ipsa.</p>
+         <p>Tengo conocimientos medios con el framework de boostrap</p>
       </div>
 
    </div>
@@ -232,20 +217,14 @@ if(isset($message)){
 
       <div class="box" data-aos="zoom-in">
          <img src="images/img1.jpg" alt="">
-         <h3>web development</h3>
-         <span>( 2020 - 2022 )</span>
       </div>
 
       <div class="box" data-aos="zoom-in">
          <img src="images/img2.jpg" alt="">
-         <h3>web development</h3>
-         <span>( 2020 - 2022 )</span>
       </div>
 
       <div class="box" data-aos="zoom-in">
          <img src="images/img3.jpg" alt="">
-         <h3>web development</h3>
-         <span>( 2020 - 2022 )</span>
       </div>
 
    </div>
